@@ -1,3 +1,3 @@
 # 拾年
-email: [diql@hotmail.com]
+email: <diql@hotmail.com>
 
